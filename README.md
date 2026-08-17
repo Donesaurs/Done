@@ -22,7 +22,7 @@ The project is also a deliberate learning environment for improving frontend and
 | API | NestJS and TypeScript |
 | Database | PostgreSQL and Drizzle |
 | Shared UI | Tamagui foundations and design tokens |
-| Repository | Bun workspace monorepo |
+| Repository | pnpm workspace with Turborepo |
 
 The clients will share domain logic, validation, API contracts, tokens, and foundational components while keeping platform-specific navigation and advanced interactions.
 
